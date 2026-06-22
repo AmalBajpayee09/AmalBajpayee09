@@ -1,10 +1,11 @@
 <h1 align="center">
  
-  <img src="https://github.com/AmalBajpayee09/AmalBajpayee09/blob/092b7ee357fad98a130d23fb4679c44fa7297d76/Working%20Locked%20In%20GIF%20by%20ChesterAbstract.gif" width="60px" /> Hi 👋, I'm Amal Bajpayee — Engineer & Innovator.
+  <img src="Working Locked In GIF by ChesterAbstract.gif" width="60px" /> Hi 👋, I'm Amal Bajpayee — Software Engineer, AI Enthusiast & Builder of Real-World Solutions.
 </h1>
 <h3 align="center">
   Passionate about crafting impactful software, contributing to open source,
   decoding data stories, and exploring the unseen depths of AI & LLMs — from IIITM Gwalior
+  <img src="Working Locked In GIF by ChesterAbstract.gif" width="60px" /> 
 
 # 💫 About Me:
 🔭 I’m currently working on AI-Powered Smart City Waste Management Systems and Full-Stack Development.<br><br>🤝 I’m looking to collaborate on Full-Stack, AI/ML, Computer Vision and Open Source Projects.<br><br>🆘 I’m looking for help with Distributed Systems, MLOps and Scalable Cloud Architectures.<br><br>🌱 I’m currently learning System Design, DevOps, Distributed Systems and Advanced Machine Learning.<br><br>💬 Ask me about C++, Python, React, Node.js, FastAPI, PostgreSQL, DSA and Computer Vision.<br><br>⚡ Fun fact: I enjoy building real-world AI solutions and transforming research ideas into scalable products.
