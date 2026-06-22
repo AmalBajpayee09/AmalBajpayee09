@@ -4,8 +4,8 @@
 </h1>
 <h3 align="center">
   Passionate about crafting impactful software, contributing to open source,
-  decoding data stories, and exploring the unseen depths of AI & LLMs — from IIITM Gwalior
-  <img src="Working Locked In GIF by ChesterAbstract.gif" width="60px" /> 
+  decoding data stories, and exploring the unseen depths of AI & LLMs — from IIITM Gwalior<br>
+  <img src="Coding Work From Home GIF by Domme Space.gif" width="200px" /> 
 
 # 💫 About Me:
 🔭 I’m currently working on AI-Powered Smart City Waste Management Systems and Full-Stack Development.<br><br>🤝 I’m looking to collaborate on Full-Stack, AI/ML, Computer Vision and Open Source Projects.<br><br>🆘 I’m looking for help with Distributed Systems, MLOps and Scalable Cloud Architectures.<br><br>🌱 I’m currently learning System Design, DevOps, Distributed Systems and Advanced Machine Learning.<br><br>💬 Ask me about C++, Python, React, Node.js, FastAPI, PostgreSQL, DSA and Computer Vision.<br><br>⚡ Fun fact: I enjoy building real-world AI solutions and transforming research ideas into scalable products.
