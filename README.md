@@ -1,6 +1,10 @@
+
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=AMAL%20BAJPAYEE&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 <h1 align="center">
  
-  <img src="Working Locked In GIF by ChesterAbstract.gif" width="60px" /> Hi 👋, I'm Amal Bajpayee — Software Engineer, AI Enthusiast & Builder of Real-World Solutions.
+  <img src="Working Locked In GIF by ChesterAbstract.gif" width="60px" /> Hi 👋, I'm  — Software Engineer, AI Enthusiast & Builder of Real-World Solutions.
 </h1>
 <h3 align="center">
   Passionate about crafting impactful software, contributing to open source,
