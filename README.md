@@ -30,6 +30,18 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/AmalBajpayee09/AmalBajpayee09/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github.com/AmalBajpayee09/AmalBajpayee09/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake"
+      src="https://github.com/AmalBajpayee09/AmalBajpayee09/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AmalBajpayee09&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -41,5 +53,6 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shinchan09) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+  
+
