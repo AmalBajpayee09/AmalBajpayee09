@@ -1,6 +1,5 @@
-
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=AMAL%20BAJPAYEE&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=AMAL%20BAJPAYEE&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Integrated%20B.Tech%20%2B%20M.Tech%20%7C%20ABV-IIITM%20Gwalior&descAlignY=65&descSize=20"/>
 </p>
 <h1 align="center">
  
