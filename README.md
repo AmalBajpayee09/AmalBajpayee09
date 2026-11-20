@@ -1,57 +1,229 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=AMAL%20BAJPAYEE&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Integrated%20B.Tech%20%2B%20M.Tech%20%7C%20ABV-IIITM%20Gwalior&descAlignY=65&descSize=20"/>
-</p>
-<h1 align="center">
- 
-  <img src="Working Locked In GIF by ChesterAbstract.gif" width="60px" /> Hi 👋, I'm  — Software Engineer, AI Enthusiast & Builder of Real-World Solutions.
-</h1>
-<h3 align="center">
-  Passionate about crafting impactful software, contributing to open source,
-  decoding data stories, and exploring the unseen depths of AI & LLMs — from IIITM Gwalior<br>
-  <img src="Coding Work From Home GIF by Domme Space.gif" width="200px" /> 
+<!--
+  AMAL BAJPAYEE / THE CINEMATIC ENGINEERING PROFILE
+  GitHub-profile-compatible HTML + Markdown. No scripts required.
+  Custom animated banner: assets/amal-cinematic-banner.gif
+  Snake animation: .github/workflows/snake.yml -> output branch
+-->
 
-# 💫 About Me:
-🔭 I’m currently working on AI-Powered Smart City Waste Management Systems and Full-Stack Development.<br><br>🤝 I’m looking to collaborate on Full-Stack, AI/ML, Computer Vision and Open Source Projects.<br><br>🆘 I’m looking for help with Distributed Systems, MLOps and Scalable Cloud Architectures.<br><br>🌱 I’m currently learning System Design, DevOps, Distributed Systems and Advanced Machine Learning.<br><br>💬 Ask me about C++, Python, React, Node.js, FastAPI, PostgreSQL, DSA and Computer Vision.<br><br>⚡ Fun fact: I enjoy building real-world AI solutions and transforming research ideas into scalable products.
+<div align="center">
 
+<!-- CHAPTER 00 : THE OPENING SHOT -->
+<img src="assets/amal-cinematic-banner.gif" width="100%" alt="Amal Bajpayee — cinematic animated introduction" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abajpai09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amalbajpayee09@gmail.com) 
+<br /><br />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AmalBajpayee09&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AmalBajpayee09&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AmalBajpayee09&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=650&color=22D3EE&center=true&vCenter=true&width=830&height=66&lines=SOFTWARE+ENGINEER+%2F+FULL-STACK+BUILDER;AGENTIC+AI+%2F+INTELLIGENT+SYSTEMS;MACHINE+LEARNING+%2F+DATA+ENGINEERING;BUILDING+WHAT+MATTERS.+ONE+SYSTEM+AT+A+TIME." alt="Animated introduction: software engineering, AI agents, machine learning and data engineering" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AmalBajpayee09&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-## 🐍 Contribution Snake
+<a href="https://abajpayee33.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE-MY%20PORTFOLIO-06B6D4?style=for-the-badge&labelColor=020617&logo=vercel&logoColor=white" alt="Visit portfolio" /></a>
+<a href="https://www.linkedin.com/in/abajpai09/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-2563EB?style=for-the-badge&labelColor=020617&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:amalbajpayee09@gmail.com"><img src="https://img.shields.io/badge/CONTACT-EMAIL-7C3AED?style=for-the-badge&labelColor=020617&logo=gmail&logoColor=white" alt="Send email" /></a>
+<a href="https://github.com/AmalBajpayee09?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-SOURCE%20CODE-334155?style=for-the-badge&labelColor=020617&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/AmalBajpayee09/AmalBajpayee09/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github.com/AmalBajpayee09/AmalBajpayee09/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake"
-      src="https://github.com/AmalBajpayee09/AmalBajpayee09/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<br /><br />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmalBajpayee09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=AmalBajpayee09&style=flat-square&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/ABV--IIITM-GWALIOR-6366F1?style=flat-square" alt="ABV-IIITM Gwalior" />
+<img src="https://img.shields.io/badge/INTEGRATED-B.TECH%20%2B%20M.TECH-0F766E?style=flat-square" alt="Integrated BTech and MTech" />
+
+<br /><br />
+
+<sup>◈ &nbsp; ENGINEER BY TRAINING &nbsp;·&nbsp; BUILDER BY INSTINCT &nbsp;·&nbsp; ALWAYS LEARNING &nbsp; ◈</sup>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AmalBajpayee09&icon=2&color=8)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shinchan09) 
+## 🎬 `ACT I // INITIALIZING...`
 
-  
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  SUBJECT    AMAL BAJPAYEE                                          │
+│  ORIGIN     ABV-IIITM GWALIOR  ·  INTEGRATED B.TECH + M.TECH (IT) │
+│  DISCIPLINE SOFTWARE ENGINEERING  /  AI  /  DATA SYSTEMS           │
+│  MISSION    MAKE COMPLEX TECHNOLOGY USEFUL IN THE REAL WORLD       │
+│  CURRENT    BUILDING  •  TESTING  •  LEARNING  •  ITERATING         │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-  
+I'm **Amal Bajpayee**, an Integrated B.Tech. + M.Tech. Information Technology student at **ABV-IIITM Gwalior (2022–2027)**. I build across the stack—from **secure APIs, databases, full-stack interfaces and distributed workflows** to **AI agents, machine learning, computer vision and data pipelines**.
 
+At **Lord-Tech Datus Solutions**, I contributed to the **TIIC-funded NirmalGwalior Smart City initiative**, developing computer-vision processing and integrating AI outputs with **FastAPI, PostgreSQL/PostGIS and React**. My other work spans data analysis, validation and interactive Power BI reporting.
+
+> **My philosophy:** Great engineering isn't just a clever demo. It's a useful system that people can understand, operate and improve.
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><strong>⚙️ THE ENGINEER</strong><br /><br />Backend APIs · distributed systems · secure workflows · reliability</td>
+    <td width="33%" valign="top"><strong>🧠 THE AI BUILDER</strong><br /><br />LLMs · RAG · agents · machine learning · computer vision</td>
+    <td width="33%" valign="top"><strong>📊 THE DATA THINKER</strong><br /><br />SQL · ETL · validation · analytics · visualization</td>
+  </tr>
+</table>
+
+---
+
+## 🚀 `ACT II // THE SYSTEMS I'VE BUILT`
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:172554,100:312E81&height=52&text=SELECTED%20BUILDS%20%7C%20PROOF%20OF%20WORK&fontSize=18&fontColor=ffffff" width="100%" alt="Selected builds cinematic section divider" />
+</div>
+
+A cross-domain selection of engineering projects. Descriptions reflect project work I've documented; links to individual repositories can be added as they become public.
+
+| Project | Engineering focus | Stack |
+|:--|:--|:--|
+| **🎙️ BharatVoice AI** — Multilingual Voice Platform | Real-time Hindi, English and Hinglish speech workflows across browser and phone; LLM-powered responses with retrieval. | `Python` `FastAPI` `WebSockets` `Deepgram` `Groq` `ChromaDB` |
+| **🧠 AI Hiring Copilot** — Agentic Recruitment | Resume parsing, candidate/job matching, skill-gap analysis and interview generation with retrieval-aware agent workflows. | `LangGraph` `RAG` `FAISS` `FastAPI` `PostgreSQL` `Redis` |
+| **📈 ProspectIQ** — Predictive Intelligence | ML-based prospect scoring, feature engineering, explainability and agent-assisted intelligence workflows. | `Scikit-learn` `XGBoost` `SHAP` `LangGraph` `MLflow` |
+| **🏢 LedgerFlow** — Enterprise Data Operations | Finance operations, role-based controls, audit trails, reconciliation and data quality workflows. | `React` `FastAPI` `SQL` `Databricks` `PySpark` |
+| **🚨 CloudOps AI** — Incident Management | Real-time incident dashboards, secure APIs and AI-assisted investigations with human approval. | `React` `Node.js` `Redis` `Socket.IO` `Docker` |
+| **⚡ TransactX** — Distributed Transactions | Event-driven services, transactional outbox, idempotency, fault tolerance and observability. | `Java` `Spring Boot` `Kafka` `PostgreSQL` `Grafana` |
+
+<div align="center">
+  <a href="https://github.com/AmalBajpayee09?tab=repositories"><img src="https://img.shields.io/badge/OPEN-THE%20REPOSITORY%20VAULT-22D3EE?style=for-the-badge&labelColor=020617&logo=github&logoColor=white" alt="Explore repository collection" /></a>
+</div>
+
+---
+
+## 🛠️ `ACT III // TECHNOLOGY ARSENAL`
+
+<div align="center">
+
+**LANGUAGES / FOUNDATIONS**
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,go,js,ts&theme=dark" alt="Python, Java, C++, Go, JavaScript and TypeScript" />
+
+<br /><br />
+
+**FULL-STACK / BACKEND / DATABASES**
+
+<img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,react,nextjs,postgres,mysql,redis,mongodb&theme=dark&perline=10" alt="Full-stack engineering technologies" />
+
+<br /><br />
+
+**AI / ML / DATA INTELLIGENCE**
+
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,pytorch&theme=dark" alt="OpenCV, scikit-learn and PyTorch" />
+
+<br />
+
+<img src="https://img.shields.io/badge/LangGraph-Agents-0F766E?style=flat-square" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LangChain-LLM%20Orchestration-4F46E5?style=flat-square" alt="LangChain" />
+<img src="https://img.shields.io/badge/RAG-Retrieval-0891B2?style=flat-square" alt="RAG" />
+<img src="https://img.shields.io/badge/FAISS-Vector%20Search-7C3AED?style=flat-square" alt="FAISS" />
+<img src="https://img.shields.io/badge/Pandas-Analytics-D97706?style=flat-square" alt="Pandas" />
+<img src="https://img.shields.io/badge/PySpark-Data%20Pipelines-DB2777?style=flat-square" alt="PySpark" />
+<img src="https://img.shields.io/badge/MLflow-Experiments-0284C7?style=flat-square" alt="MLflow" />
+
+<br /><br />
+
+**CLOUD / DEVOPS / ENGINEERING TOOLS**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions,postman&theme=dark&perline=8" alt="AWS, Docker, Kubernetes, Linux, Git and tooling" />
+
+</div>
+
+---
+
+## 🏙️ `ACT IV // IMPACT BEYOND THE SCREEN`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌆 NirmalGwalior Smart City**
+
+Contributed to a **TIIC-funded initiative** involving YOLOv8, OpenCV, MiDaS, waste-monitoring workflows and location-aware integration through FastAPI, PostGIS and React.
+
+</td>
+<td width="50%" valign="top">
+
+**📊 Data Analytics & Reporting**
+
+Cleaned and validated business/research datasets with Python and Pandas, performed exploratory analysis and produced **Power BI dashboards** for insights and KPI tracking.
+
+</td>
+</tr>
+</table>
+
+**Currently exploring:** `System Design` · `Distributed Systems` · `AI Agent Reliability` · `LLM Evaluation` · `MLOps` · `Cloud-Native Architecture`
+
+---
+
+## 🔥 `ACT V // THE CONSISTENCY ENGINE`
+
+<div align="center">
+
+**BUILDING IS A HABIT. NOT A ONE-TIME EVENT.**
+
+<br />
+
+<!-- Dynamic contribution and streak cards; no manually frozen numbers -->
+<img src="https://streak-stats.demolab.com?user=AmalBajpayee09&theme=tokyonight&hide_border=true&background=0D1117&ring=E879F9&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=F9A8D4&dates=CBD5E1" alt="Live GitHub contributions, current and longest streak" />
+
+<br />
+
+<img height="168" src="https://github-readme-stats.vercel.app/api?username=AmalBajpayee09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=E879F9&text_color=CBD5E1" alt="GitHub activity statistics" />
+<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalBajpayee09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1" alt="Top repository languages" />
+
+<br /><br />
+
+<a href="https://github.com/AmalBajpayee09"><img src="https://img.shields.io/badge/VIEW-MY%20NATIVE%20GITHUB%20CONTRIBUTION%20CALENDAR-15803D?style=for-the-badge&labelColor=020617&logo=github&logoColor=white" alt="View original GitHub contribution graph" /></a>
+
+<br />
+
+<sub>The native green GitHub contribution calendar stays on my profile. These are additional dynamic views, not replacements.</sub>
+
+</div>
+
+### 🐍 `THE CONTRIBUTION SNAKE // ALWAYS MOVING`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake.svg" alt="Animated contribution snake traveling through the GitHub contribution calendar" />
+</picture>
+
+<sub>Generated daily by GitHub Actions after the first successful workflow run.</sub>
+
+</div>
+
+---
+
+## 🏆 `ACT VI // MILESTONES UNLOCKED`
+
+- **INR 2,00,000 in TIIC innovation funding** associated with the NirmalGwalior Smart City project at ABV-IIITM Gwalior.
+- **Core Technical Member — AI & Smart City**, Lord-Tech Datus Solutions (May–July 2026).
+- **Data Analytics Intern**, Lord-Tech Datus Solutions (June–September 2025).
+- Completed the **C-DAC Noida Ethical Hacking & Penetration Testing** program and virtual internship under the Cyber Gyan Project.
+
+---
+
+## 🌌 `THE NEXT CHAPTER // LET'S BUILD`
+
+<div align="center">
+
+**BIG IDEAS DESERVE SYSTEMS THAT ACTUALLY WORK.**
+
+I'm interested in ambitious projects at the intersection of **software engineering, intelligent systems, AI, ML and data**. If you're building something meaningful, let's connect.
+
+<br /><br />
+
+<a href="mailto:amalbajpayee09@gmail.com"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-EMAIL-0F766E?style=for-the-badge&labelColor=020617&logo=gmail&logoColor=white" alt="Email me" /></a>
+<a href="https://www.linkedin.com/in/abajpai09/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-2563EB?style=for-the-badge&labelColor=020617&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://abajpayee33.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE-THE%20PORTFOLIO-7C3AED?style=for-the-badge&labelColor=020617&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+<br /><br />
+
+**`BUILD THOUGHTFULLY // TEST RELENTLESSLY // KEEP MOVING FORWARD`**
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:312e81&height=115&section=footer" width="100%" alt="Cinematic gradient wave footer" />
+
+<sub>Directed, designed and built with curiosity, persistence and a builder's mindset.</sub>
+
+</div>
