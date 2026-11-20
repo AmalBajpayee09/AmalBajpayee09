@@ -1,140 +1,190 @@
-<!-- AMAL BAJPAYEE • DIRECTOR'S CUT / GitHub-compatible animated profile -->
+<!--
+  AMAL BAJPAYEE — THE ENGINEERING CHRONICLES / CINEMATIC CUT V4
+  Entire profile is GitHub-compatible Markdown + images/GIFs.
+  No custom CSS, JavaScript, or third-party iframe embeds.
+  Keep the /assets directory when you upload this README.
+-->
+
 <div align="center">
 
-<img src="assets/hero-trailer.gif" alt="Animated cinematic scene featuring the name Amal Bajpayee, software engineer and AI builder" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/01-opening-sequence-still.jpg" />
+  <img src="assets/01-opening-sequence.gif" alt="Cinematic opening title sequence: Amal Bajpayee, software engineer and AI builder, overlooking a futuristic illuminated city" width="100%" />
+</picture>
 
 <br />
 
-<a href="https://abajpayee33.vercel.app/"><img alt="Explore portfolio" src="https://img.shields.io/badge/EXPLORE-PORTFOLIO-07232C?style=for-the-badge&labelColor=0A1520&color=12B6BF" /></a>
-<a href="https://github.com/AmalBajpayee09?tab=repositories"><img alt="Explore GitHub repositories" src="https://img.shields.io/badge/VIEW-SOURCE_CODE-10202A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1520&color=446A80" /></a>
-<a href="https://www.linkedin.com/in/abajpai09/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT-LINKEDIN-10202A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A1520&color=1B79AC" /></a>
-<a href="mailto:amalbajpayee09@gmail.com"><img alt="Contact by email" src="https://img.shields.io/badge/SAY_HELLO-EMAIL-10202A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A1520&color=B47958" /></a>
+**Building across software engineering, intelligent systems and data — one real problem at a time.**
+
+<sub>ABV-IIITM Gwalior · Integrated B.Tech. + M.Tech. (IT) · Class of 2027 · India</sub>
 
 <br /><br />
 
-<sub>Gwalior, India &nbsp; · &nbsp; Integrated B.Tech. + M.Tech., Information Technology &nbsp; · &nbsp; ABV-IIITM Gwalior</sub>
+<a href="https://abajpayee33.vercel.app/"><strong>EXPLORE THE PORTFOLIO</strong></a> &nbsp; / &nbsp;
+<a href="https://github.com/AmalBajpayee09?tab=repositories"><strong>VIEW THE CODE</strong></a> &nbsp; / &nbsp;
+<a href="https://www.linkedin.com/in/abajpai09/"><strong>LINKEDIN</strong></a> &nbsp; / &nbsp;
+<a href="mailto:amalbajpayee09@gmail.com"><strong>CONTACT</strong></a>
 
 </div>
 
 <br />
 
-## 01 — The engineer behind the systems
+<!-- SCENE ONE — ORIGIN -->
 
-I’m **Amal Bajpayee**. I design and build across **software engineering, backend platforms, full-stack products, agentic AI and data intelligence**. I like the intersection where difficult engineering problems become tools that people can actually use.
+<img src="assets/02-origin.jpg" width="100%" alt="Act I: Built to make things real — a student of systems, an engineer driven by curiosity" />
 
-At **Lord-Tech Datus Solutions**, I contributed to the **TIIC-funded NirmalGwalior Smart City initiative**, working on **computer vision with YOLOv8 and MiDaS** and integrating the outputs with **FastAPI, PostgreSQL/PostGIS and React**. I have also worked with real-world datasets, Python analytics and Power BI reporting.
+I’m **Amal Bajpayee**, an Integrated B.Tech. + M.Tech. Information Technology student at **ABV-IIITM Gwalior**. I build across the stack: **backend services, full-stack products, machine learning, agentic AI, data pipelines and distributed workflows**.
 
-**My approach:** understand the problem → design the system → build the core → test the edges → improve what matters.
+I care about what happens beyond a working demo: whether a system is **useful, understandable, secure, testable and resilient when things go wrong**.
 
-<br />
+My experience includes contributing to the **TIIC-funded NirmalGwalior Smart City initiative** at Lord-Tech Datus Solutions. I worked with **Python, OpenCV, YOLOv8 and MiDaS** for computer-vision processing, and helped integrate outputs through **FastAPI, PostgreSQL/PostGIS and React**. Earlier, I worked on data cleaning, validation, analysis and **Power BI** reporting.
 
-## 02 — Selected work
-
-<sub>Six builds. Six different engineering problems. One constant: solve the real problem.</sub>
+> **The north star:** Build the thing. Understand its limits. Improve the system.
 
 <br />
 
-<img src="assets/project-01.gif" width="100%" alt="BharatVoice AI: multilingual voice automation across browser and telephony, with Python, FastAPI, Groq, Deepgram and retrieval" />
-
-<img src="assets/project-02.jpg" width="100%" alt="LedgerFlow: enterprise finance workflows, secure APIs, SharePoint integration, reconciliation and PySpark ETL" />
-
-<img src="assets/project-03.gif" width="100%" alt="AI Hiring Copilot: agentic recruitment, resume parsing, matching and retrieval-aware workflows" />
-
-<img src="assets/project-04.jpg" width="100%" alt="ProspectIQ: explainable machine-learning prospect scoring with XGBoost, SHAP and MLflow" />
-
-<img src="assets/project-05.gif" width="100%" alt="TransactX: distributed transaction processing, Kafka, Spring Boot and fault-tolerant workflows" />
-
-<img src="assets/project-06.jpg" width="100%" alt="CloudOps AI: operational dashboards, incident management and AI investigation with human approval" />
+<!-- SCENE TWO — THE BUILDS -->
 
 <div align="center">
 
-[**Browse public code & technical experiments**](https://github.com/AmalBajpayee09?tab=repositories) &nbsp; · &nbsp; [**Explore the portfolio**](https://abajpayee33.vercel.app/)
+### THE WORLDS I'M BUILDING
 
-<sub>Project artwork is an editorial overview, not a screenshot or claim of public deployment. Some individual repositories may be private or works in progress.</sub>
+<sub>Three disciplines · Six selected projects · More than one way to solve a hard problem</sub>
+
+</div>
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/03-intelligence-still.jpg" />
+  <img src="assets/03-intelligence.gif" width="100%" alt="Animated intelligence scene: glowing neural connections and audio waveforms representing voice AI, agent workflows, retrieval and machine learning" />
+</picture>
+
+**BharatVoice AI** · *Multilingual voice automation*  
+A real-time Hindi, English and Hinglish voice application combining **FastAPI, WebSockets, Deepgram speech recognition, Groq LLM responses, Piper speech synthesis and RAG** across web and telephony workflows.
+
+**AI Hiring Copilot** · *Retrieval-aware recruitment agents*  
+An AI-assisted platform for **resume parsing, candidate-to-role matching, skill-gap analysis and interview-question generation** using **LangGraph, FAISS, FastAPI, PostgreSQL and Redis**.
+
+<br />
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/04-data-still.jpg" />
+  <img src="assets/04-data.gif" width="100%" alt="Animated data engineering scene: streams of illuminated records passing through a network of processing nodes" />
+</picture>
+
+**ProspectIQ** · *Predictive and explainable intelligence*  
+Prospect-scoring workflows combining **XGBoost, Random Forest, Logistic Regression, feature engineering, model evaluation, SHAP explainability** and retrieval-aware AI tools.
+
+**LedgerFlow** · *Enterprise finance operations*  
+A **React + FastAPI** finance workflow platform featuring **RBAC, audit trails, SharePoint document integration** and **Databricks/PySpark** data validation and reconciliation pipelines.
+
+<br />
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/05-systems-still.jpg" />
+  <img src="assets/05-systems.gif" width="100%" alt="Animated distributed systems scene: resilient interconnected service nodes and moving event signals" />
+</picture>
+
+**TransactX** · *Distributed transaction processing*  
+A **Java/Spring Boot + Kafka** microservices system exploring **idempotency, transactional outbox, distributed locking, circuit breakers** and service observability.
+
+**CloudOps AI** · *Incident operations and investigation*  
+A full-stack incident-management platform using **React, Node.js, Redis, Socket.IO and JWT/RBAC**, including operational dashboards and **AI-assisted investigation with human approval**.
+
+<sub>These are engineering project descriptions, not claims of production deployment. Source availability varies; browse the public repositories below.</sub>
+
+<div align="center">
+
+[**EXPLORE PUBLIC REPOSITORIES**](https://github.com/AmalBajpayee09?tab=repositories) &nbsp; · &nbsp; [**VIEW THE FULL PORTFOLIO**](https://abajpayee33.vercel.app/)
 
 </div>
 
 <br />
 
-## 03 — Engineering disciplines
+<!-- SCENE THREE — TOOLKIT -->
 
-**SOFTWARE & SYSTEMS** &nbsp; · &nbsp; Python · Java · Go · C++ · JavaScript · TypeScript · FastAPI · Spring Boot · Node.js · React · Next.js
+<img src="assets/06-toolkit.jpg" width="100%" alt="Act III: The tools are not the story. The systems built with them are." />
 
-**DATA & INFRASTRUCTURE** &nbsp; · &nbsp; PostgreSQL · Redis · SQL · Kafka · Databricks · PySpark · Docker · Kubernetes · AWS
+**Engineering foundations** — `Python` `Java` `Go` `C++` `JavaScript` `TypeScript` `SQL` · DSA · OOP · system design
 
-**APPLIED INTELLIGENCE** &nbsp; · &nbsp; Machine Learning · Scikit-learn · XGBoost · OpenCV · RAG · LangGraph · FAISS · LLM integrations
+**Applications & APIs** — `FastAPI` `Spring Boot` `Node.js` `React` `Next.js` · REST APIs · authentication · authorization
 
-**ENGINEERING PRACTICE** &nbsp; · &nbsp; Git · CI/CD · Testing · REST APIs · Authentication · Observability · Distributed Systems
+**Intelligent systems** — `LangGraph` `LangChain` `RAG` `FAISS` `Scikit-learn` `XGBoost` `OpenCV` · LLM evaluation
+
+**Data & infrastructure** — `PostgreSQL` `Redis` `Kafka` `PySpark` `Databricks` `Docker` `Kubernetes` `AWS` · CI/CD · observability
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,go,cpp,js,ts,fastapi,spring,react,nextjs,postgres,redis,docker,aws&theme=dark&perline=14" alt="Selected engineering tools and programming languages" />
+<img src="https://skillicons.dev/icons?i=python,java,go,cpp,ts,react,fastapi,spring,postgres,redis,docker,aws&theme=dark&perline=12" width="88%" alt="A curated row of engineering tools including Python, Java, Go, C++, TypeScript, React, FastAPI, Spring, PostgreSQL, Redis, Docker and AWS" />
 
 </div>
 
-<br />
+### Where the theory met reality
 
-## 04 — Proof beyond the screen
-
-**Smart City / Applied AI** — Computer vision, depth estimation, waste-monitoring pipelines, location-aware APIs and dashboards on a **₹2,00,000 TIIC-funded initiative** at ABV-IIITM Gwalior.
-
-**Analytics / Practical data** — Python and Pandas data cleaning, validation, exploratory analysis and Power BI dashboards built during a data analytics internship.
-
-**Still exploring** — Distributed systems, scalable cloud architectures, model evaluation, agent reliability and MLOps.
+- **Applied AI / NirmalGwalior:** Computer-vision and location-aware monitoring work on a **₹2,00,000 TIIC-funded** smart city initiative.
+- **Data & decision-making:** Python/Pandas-based cleaning, validation, exploratory analytics and Power BI dashboards for research and business datasets.
+- **Always exploring:** Distributed systems, cloud architecture, agent reliability, MLOps and the engineering discipline needed to make ambitious systems trustworthy.
 
 <br />
 
-## 05 — Consistency is a system
+<!-- SCENE FOUR — CONSISTENCY -->
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/07-consistency-still.jpg" />
+  <img src="assets/07-consistency.gif" width="100%" alt="Animated cinematic title: The work does not stop — the consistency engine and live GitHub activity" />
+</picture>
 
 <div align="center">
 
-<img src="assets/consistency-title.gif" alt="The Consistency Engine — show up, build, improve, repeat" width="100%" />
+**What I build matters. Showing up to improve it matters too.**
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=AmalBajpayee09&theme=transparent&hide_border=true&ring=50D5DD&fire=FFB06B&currStreakLabel=50D5DD&sideLabels=CFDDE8&dates=9EB3C4" alt="Live GitHub contribution streak: total contributions, current streak and longest streak" />
-
-<br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmalBajpayee09&show_icons=true&theme=transparent&hide_border=true&title_color=50D5DD&icon_color=FFB06B&text_color=AEC4D4" alt="Live GitHub activity statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalBajpayee09&layout=compact&hide_border=true&theme=transparent&title_color=50D5DD&text_color=AEC4D4" alt="Public repository language usage statistics" />
+<a href="https://github.com/AmalBajpayee09?tab=overview"><strong>VIEW MY NATIVE GITHUB CONTRIBUTION CALENDAR</strong></a>
 
 <br /><br />
 
-<a href="https://github.com/AmalBajpayee09?tab=overview&from=2026-01-01&to=2026-12-31"><strong>VIEW THE NATIVE GITHUB CONTRIBUTION CALENDAR</strong></a>
+<img src="https://streak-stats.demolab.com?user=AmalBajpayee09&theme=transparent&hide_border=true&ring=49DDD9&fire=F8B66F&currStreakLabel=49DDD9&sideLabels=B4D6E0&dates=90A7B7" alt="Live current streak, longest streak and contribution totals" />
+
+<br />
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=AmalBajpayee09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060D17&title_color=49DDD9&icon_color=F8B66F" alt="Live GitHub statistics" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmalBajpayee09&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=060D17&title_color=49DDD9" alt="GitHub language summary" />
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake.svg" alt="Animated contribution snake following the GitHub contribution grid" width="100%" />
+  <img src="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake traveling across the GitHub contribution history" />
 </picture>
 
-<sub>Activity data comes from GitHub / third-party widgets. The snake appears when the existing GitHub Actions workflow has successfully published its output.</sub>
+<sub>The native green GitHub contribution graph remains on my profile. These live widgets supplement it; third-party statistics and snake rendering may depend on service/workflow availability.</sub>
 
 </div>
 
 <br />
 
-## 06 — The next chapter
+<!-- FINAL SCENE — CREDITS -->
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/08-end-credits-still.jpg" />
+  <img src="assets/08-end-credits.gif" width="100%" alt="Cinematic finale: The next chapter is ours to build, with a lone explorer facing a luminous city" />
+</picture>
 
 <div align="center">
 
-<img src="assets/closing-frame.jpg" width="100%" alt="The next frame is unwritten. Let's build something worth shipping." />
+**Open to impactful engineering work, ambitious ideas and people who love to build.**
 
 <br />
 
-I’m open to thoughtful conversations about **software engineering, AI, infrastructure, research-driven prototypes and open source**.
+[**PORTFOLIO**](https://abajpayee33.vercel.app/) &nbsp; / &nbsp; [**GITHUB**](https://github.com/AmalBajpayee09) &nbsp; / &nbsp; [**LINKEDIN**](https://www.linkedin.com/in/abajpai09/) &nbsp; / &nbsp; [**EMAIL**](mailto:amalbajpayee09@gmail.com)
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=AmalBajpayee09&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br />
 
-[**Portfolio**](https://abajpayee33.vercel.app/) &nbsp; · &nbsp; [**GitHub**](https://github.com/AmalBajpayee09) &nbsp; · &nbsp; [**LinkedIn**](https://www.linkedin.com/in/abajpai09/) &nbsp; · &nbsp; [**Email**](mailto:amalbajpayee09@gmail.com)
-
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=AmalBajpayee09&style=flat-square&color=0E7490&label=PROFILE+VIEWS" alt="Profile views" />
-
-<sub>Original cinematic art and motion graphics created for this profile. Readability and real engineering work come first.</sub>
+<sub>AN AMAL BAJPAYEE PROJECT · MOTION GRAPHICS AND ENGINEERING, FRAME BY FRAME</sub>
 
 </div>
