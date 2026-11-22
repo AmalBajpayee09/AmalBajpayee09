@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#081424" />
+  <meta name="description" content="AMALVERSE: The Engineer's Quest. A playable six-level platform adventure that unlocks Amal Bajpayee's engineering projects, skills and story." />
+  <meta property="og:title" content="AMALVERSE — The Engineer's Quest" />
+  <meta property="og:description" content="Run, jump, battle bots and unlock six projects in this playable developer portfolio." />
+  <meta property="og:image" content="assets/visionary-hero.jpg" />
+  <title>AMALVERSE | The Engineer's Quest — A Playable Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800;900&family=DM+Sans:wght@400;500;600;700;800&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="masthead">
+    <a href="#top" class="mark" id="homeLink"><span class="mark-glyph">A<span>✦</span></span><span>AMAL<span class="mark-accent">VERSE</span><small>THE ENGINEER'S QUEST</small></span></a>
+    <nav class="site-nav" aria-label="Main navigation">
+      <button id="navLevels">LEVEL SELECT</button><button id="navDossiers">PROJECT ARCHIVE</button><a href="https://github.com/AmalBajpayee09" target="_blank" rel="noopener">GITHUB ↗</a><a class="nav-primary" href="https://abajpayee33.vercel.app/" target="_blank" rel="noopener">PORTFOLIO ↗</a>
+    </nav>
+  </header>
+  <main id="top">
+    <section class="landing" id="landing" aria-labelledby="heroTitle">
+      <div class="landing-image"></div><div class="landing-grain"></div>
+      <div class="landing-content">
+        <div class="hero-overline"><i></i> ONE BUILDER · SIX CHALLENGES · THREE WORLDS</div>
+        <p class="hero-kicker">THE PORTFOLIO IS NOW A GAME.</p>
+        <h1 id="heroTitle">THE <span>ENGINEER'S</span><br/><em>QUEST<span class="period">.</span></em></h1>
+        <p class="hero-sub">I'm <strong>Amal Bajpayee.</strong> I build intelligent software, real systems and things people can use. <strong>Don't just read my story. Unlock it.</strong></p>
+        <div class="hero-ctas"><button class="primary-btn" id="playBtn"><span>▶</span> START ADVENTURE <b>↗</b></button><button class="ghost-btn" id="exploreBtn">EXPLORE WITHOUT PLAYING ↗</button></div>
+        <div class="hero-facts"><span><strong>06</strong> PLAYABLE LEVELS</span><span><strong>06</strong> PROJECT REVEALS</span><span><strong>03</strong> WORLDS TO CONQUER</span></div>
+      </div>
+      <p class="hero-endcap">STUDENT ENGINEER <span>↘</span> BUILDER MINDSET <span>↘</span> FUTURE-FOCUSED</p>
+    </section>
+
+    <section class="game-container" id="gameSection" hidden aria-label="Playable side-scrolling platform game">
+      <div class="game-heading"><div><span class="tiny-overline">ARCADE MODE // LIVE ADVENTURE</span><h2>RUN. JUMP. <em>UNLOCK.</em></h2></div><button class="back-btn" id="backToLobby">← LOBBY</button></div>
+      <div class="game-frame" id="gameFrame">
+        <div class="game-hud"><div><span class="hud-label" id="hudWorld">WORLD 01 · NEURAL FRONTIER</span><strong id="hudLevel">01 / SIGNAL GROVE</strong></div><div class="hud-numbers"><span>✦ <b id="hudGems">0/3</b></span><span>♥ <b id="hudLives">♥ ♥ ♥</b></span><span>★ <b id="hudScore">0000</b></span></div></div>
+        <canvas id="gameCanvas" width="1100" height="620" tabindex="0" aria-label="Side-scrolling platformer: use left/right arrows to move, Space to jump, X to fire a pulse and E to enter the exit portal."></canvas>
+        <div class="game-toast" id="gameToast" role="status" aria-live="polite"></div>
+        <div class="game-controls"><span>← → / A D MOVE</span><span>SPACE / W / ↑ JUMP</span><span>X / K ATTACK</span><span>E ENTER GATE</span><span>ESC PAUSE</span></div>
+      </div>
+      <div class="mobile-pad" aria-label="Touch controls"><div class="mobile-direction"><button data-hold="left" aria-label="Move left">◀</button><button data-hold="right" aria-label="Move right">▶</button></div><div class="mobile-action"><button id="touchFire">⚡ ATTACK</button><button id="touchJump">↑ JUMP</button><button id="touchEnter">↗ ENTER</button></div></div>
+      <div class="game-below"><span id="checkpointStatus">CHECKPOINT: START</span><div><button id="restartLevel">↺ RESTART LEVEL</button><button id="pauseGame">Ⅱ PAUSE</button><button id="openMap">☷ LEVEL MAP</button><button id="soundToggle" aria-pressed="false">♫ AUDIO OFF</button></div></div>
+    </section>
+
+    <section class="levels-section" id="levels"><div class="section-overline">01 / YOUR PATH TO THE TRUTH</div><div class="section-heading"><h2>SIX LEVELS.<br/><em>SIX REVEALS.</em></h2><p>Every world hides parts of my engineering story. Collect three keys, survive its hazards, reach the gate and unlock the next chapter. Or skip directly to the project archive if you're recruiting.</p></div><div class="level-grid" id="levelGrid"></div></section>
+
+    <section class="archive-section" id="archive"><div class="section-overline">02 / THE ENGINEERING BEHIND THE GAME</div><div class="section-heading"><h2>PROJECT <em>ARCHIVE.</em></h2><p>The game changes how you discover the work, not the facts behind it. All project summaries remain accessible without completing the adventure.</p></div><div class="archive-grid" id="archiveGrid"></div></section>
+
+    <section class="about-section" id="about"><div><span class="section-overline">03 / THE BUILDER BEHIND THE QUEST</span><h2>MORE THAN<br/><em>A CHARACTER.</em></h2></div><div class="about-copy"><p>I'm <strong>Amal Bajpayee</strong>, pursuing an Integrated B.Tech. + M.Tech. in Information Technology at <strong>ABV-IIITM Gwalior (2022–2027)</strong>.</p><p>At Lord-Tech Datus Solutions, I contributed to the <strong>TIIC-funded NirmalGwalior Smart City initiative</strong>, working on computer vision with Python, YOLOv8, OpenCV and MiDaS, and integrating AI outputs with FastAPI, PostgreSQL/PostGIS and React. Earlier, I worked on data cleaning, EDA and Power BI reporting.</p><p>My focus spans <strong>software engineering, backend systems, agentic AI, machine learning and data engineering</strong>. I care about useful, tested systems—not just impressive demos.</p><div class="about-links"><a href="https://github.com/AmalBajpayee09?tab=repositories" target="_blank" rel="noopener">VIEW GITHUB ↗</a><a href="https://www.linkedin.com/in/abajpai09/" target="_blank" rel="noopener">LINKEDIN ↗</a><a href="mailto:amalbajpayee09@gmail.com">EMAIL ME ↗</a></div></div></section>
+  </main>
+  <footer><span>AMALVERSE © 2026 · ORIGINAL BROWSER GAME</span><span>ENGINEERED TO BE EXPLORED, NOT JUST SCROLLED.</span></footer>
+  <div class="modal-root" id="modalRoot" hidden><div class="modal-scrim" id="modalScrim"></div><div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="modal-close" id="modalClose" aria-label="Close">✕</button><div id="modalContent"></div></div></div>
+  <noscript><p class="no-js">JavaScript is needed to play. The <a href="https://github.com/AmalBajpayee09">GitHub repositories</a> are available without it.</p></noscript>
+  <script defer src="game.js"></script>
+</body>
+</html>
