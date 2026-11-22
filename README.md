@@ -1,190 +1,233 @@
 <!--
-  AMAL BAJPAYEE — THE ENGINEERING CHRONICLES / CINEMATIC CUT V4
-  Entire profile is GitHub-compatible Markdown + images/GIFs.
-  No custom CSS, JavaScript, or third-party iframe embeds.
-  Keep the /assets directory when you upload this README.
+  THE BUILDVERSE / GITHUB PROFILE — CINEMATIC GAME LOBBY
+  Motion is supplied by local animated GIF files, not unsupported README scripts.
+  The actual playable game lives in docs/ and must be enabled under GitHub Pages.
+  Don't delete your existing .github workflows or contribution history.
 -->
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/01-opening-sequence-still.jpg" />
-  <img src="assets/01-opening-sequence.gif" alt="Cinematic opening title sequence: Amal Bajpayee, software engineer and AI builder, overlooking a futuristic illuminated city" width="100%" />
-</picture>
+<a href="https://amalbajpayee09.github.io/AmalBajpayee09/" title="Launch the playable Buildverse portfolio">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/00-enter-the-buildverse.jpg" />
+    <img src="assets/00-enter-the-buildverse.gif" width="100%" alt="Animated cinematic Buildverse title sequence. Amal Bajpayee's engineering portfolio is a playable browser game. Click to enter." />
+  </picture>
+</a>
 
 <br />
 
-**Building across software engineering, intelligent systems and data — one real problem at a time.**
-
-<sub>ABV-IIITM Gwalior · Integrated B.Tech. + M.Tech. (IT) · Class of 2027 · India</sub>
+<sub>AN INTERACTIVE ENGINEERING UNIVERSE · THREE WORLDS · SIX PROJECTS · ONE BUILDER</sub>
 
 <br /><br />
 
-<a href="https://abajpayee33.vercel.app/"><strong>EXPLORE THE PORTFOLIO</strong></a> &nbsp; / &nbsp;
-<a href="https://github.com/AmalBajpayee09?tab=repositories"><strong>VIEW THE CODE</strong></a> &nbsp; / &nbsp;
-<a href="https://www.linkedin.com/in/abajpai09/"><strong>LINKEDIN</strong></a> &nbsp; / &nbsp;
+<strong>AMAL BAJPAYEE</strong> &nbsp; / &nbsp; Software Engineering · Agentic AI · Machine Learning · Data Systems
+
+<br /><br />
+
+<a href="https://amalbajpayee09.github.io/AmalBajpayee09/"><strong>▶ ENTER THE GAME</strong></a>
+&nbsp; · &nbsp;
+<a href="https://abajpayee33.vercel.app/"><strong>EXPLORE PORTFOLIO</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/AmalBajpayee09?tab=repositories"><strong>VIEW SOURCE</strong></a>
+&nbsp; · &nbsp;
 <a href="mailto:amalbajpayee09@gmail.com"><strong>CONTACT</strong></a>
 
-</div>
+<br /><br />
 
-<br />
-
-<!-- SCENE ONE — ORIGIN -->
-
-<img src="assets/02-origin.jpg" width="100%" alt="Act I: Built to make things real — a student of systems, an engineer driven by curiosity" />
-
-I’m **Amal Bajpayee**, an Integrated B.Tech. + M.Tech. Information Technology student at **ABV-IIITM Gwalior**. I build across the stack: **backend services, full-stack products, machine learning, agentic AI, data pipelines and distributed workflows**.
-
-I care about what happens beyond a working demo: whether a system is **useful, understandable, secure, testable and resilient when things go wrong**.
-
-My experience includes contributing to the **TIIC-funded NirmalGwalior Smart City initiative** at Lord-Tech Datus Solutions. I worked with **Python, OpenCV, YOLOv8 and MiDaS** for computer-vision processing, and helped integrate outputs through **FastAPI, PostgreSQL/PostGIS and React**. Earlier, I worked on data cleaning, validation, analysis and **Power BI** reporting.
-
-> **The north star:** Build the thing. Understand its limits. Improve the system.
-
-<br />
-
-<!-- SCENE TWO — THE BUILDS -->
-
-<div align="center">
-
-### THE WORLDS I'M BUILDING
-
-<sub>Three disciplines · Six selected projects · More than one way to solve a hard problem</sub>
+<sub>PLAYABLE IN A BROWSER &nbsp; / &nbsp; NO SIGN-IN &nbsp; / &nbsp; DESKTOP + MOBILE CONTROLS</sub>
 
 </div>
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/03-intelligence-still.jpg" />
-  <img src="assets/03-intelligence.gif" width="100%" alt="Animated intelligence scene: glowing neural connections and audio waveforms representing voice AI, agent workflows, retrieval and machine learning" />
-</picture>
+---
 
-**BharatVoice AI** · *Multilingual voice automation*  
-A real-time Hindi, English and Hinglish voice application combining **FastAPI, WebSockets, Deepgram speech recognition, Groq LLM responses, Piper speech synthesis and RAG** across web and telephony workflows.
+## 01 / The premise
 
-**AI Hiring Copilot** · *Retrieval-aware recruitment agents*  
-An AI-assisted platform for **resume parsing, candidate-to-role matching, skill-gap analysis and interview-question generation** using **LangGraph, FAISS, FastAPI, PostgreSQL and Redis**.
+**Most portfolios ask you to scroll. Mine asks you to explore.**
 
-<br />
+I'm **Amal Bajpayee**, an Integrated B.Tech. + M.Tech. Information Technology student at **ABV-IIITM Gwalior (2022–2027)**. I enjoy building the parts that make a product real: **interfaces people can use, APIs that hold up, data that can be trusted, and AI systems that do something useful**.
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/04-data-still.jpg" />
-  <img src="assets/04-data.gif" width="100%" alt="Animated data engineering scene: streams of illuminated records passing through a network of processing nodes" />
-</picture>
-
-**ProspectIQ** · *Predictive and explainable intelligence*  
-Prospect-scoring workflows combining **XGBoost, Random Forest, Logistic Regression, feature engineering, model evaluation, SHAP explainability** and retrieval-aware AI tools.
-
-**LedgerFlow** · *Enterprise finance operations*  
-A **React + FastAPI** finance workflow platform featuring **RBAC, audit trails, SharePoint document integration** and **Databricks/PySpark** data validation and reconciliation pipelines.
-
-<br />
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/05-systems-still.jpg" />
-  <img src="assets/05-systems.gif" width="100%" alt="Animated distributed systems scene: resilient interconnected service nodes and moving event signals" />
-</picture>
-
-**TransactX** · *Distributed transaction processing*  
-A **Java/Spring Boot + Kafka** microservices system exploring **idempotency, transactional outbox, distributed locking, circuit breakers** and service observability.
-
-**CloudOps AI** · *Incident operations and investigation*  
-A full-stack incident-management platform using **React, Node.js, Redis, Socket.IO and JWT/RBAC**, including operational dashboards and **AI-assisted investigation with human approval**.
-
-<sub>These are engineering project descriptions, not claims of production deployment. Source availability varies; browse the public repositories below.</sub>
+I turned my portfolio into **The Buildverse**, a playable browser adventure. Navigate three worlds, collect energy cores, avoid sentries, and discover the engineering behind six selected projects. If you're here to hire rather than play, **Explore Without Playing** opens the project dossiers immediately.
 
 <div align="center">
 
-[**EXPLORE PUBLIC REPOSITORIES**](https://github.com/AmalBajpayee09?tab=repositories) &nbsp; · &nbsp; [**VIEW THE FULL PORTFOLIO**](https://abajpayee33.vercel.app/)
+<a href="https://amalbajpayee09.github.io/AmalBajpayee09/"><img width="100%" src="assets/04-real-gameplay.jpg" alt="Actual gameplay screenshot inside a custom mission-control frame, showing The Buildverse ship and level interface" /></a>
+
+<sub>ACTUAL GAMEPLAY · MOVE WITH WASD/ARROWS · BOOST WITH SHIFT · PULSE WITH SPACE · INTERACT WITH E</sub>
 
 </div>
 
-<br />
+---
 
-<!-- SCENE THREE — TOOLKIT -->
-
-<img src="assets/06-toolkit.jpg" width="100%" alt="Act III: The tools are not the story. The systems built with them are." />
-
-**Engineering foundations** — `Python` `Java` `Go` `C++` `JavaScript` `TypeScript` `SQL` · DSA · OOP · system design
-
-**Applications & APIs** — `FastAPI` `Spring Boot` `Node.js` `React` `Next.js` · REST APIs · authentication · authorization
-
-**Intelligent systems** — `LangGraph` `LangChain` `RAG` `FAISS` `Scikit-learn` `XGBoost` `OpenCV` · LLM evaluation
-
-**Data & infrastructure** — `PostgreSQL` `Redis` `Kafka` `PySpark` `Databricks` `Docker` `Kubernetes` `AWS` · CI/CD · observability
+## 02 / Choose your world
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,go,cpp,ts,react,fastapi,spring,postgres,redis,docker,aws&theme=dark&perline=12" width="88%" alt="A curated row of engineering tools including Python, Java, Go, C++, TypeScript, React, FastAPI, Spring, PostgreSQL, Redis, Docker and AWS" />
+<a href="#intelligence-nexus"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/01-world-intelligence.jpg" /><img width="32%" src="assets/01-world-intelligence.gif" alt="World One: Intelligence Nexus, animated violet neural network portal" /></picture></a>
+<a href="#data-forge"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/02-world-data.jpg" /><img width="32%" src="assets/02-world-data.gif" alt="World Two: Data Forge, animated teal data pipeline portal" /></picture></a>
+<a href="#systems-reactor"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/03-world-systems.jpg" /><img width="32%" src="assets/03-world-systems.gif" alt="World Three: Systems Reactor, animated amber distributed-systems portal" /></picture></a>
+
+<br />
+
+<sub>CLICK A WORLD TO OPEN ITS PROJECT BRIEFING · OR <a href="https://amalbajpayee09.github.io/AmalBajpayee09/">PLAY THROUGH ALL THREE</a></sub>
 
 </div>
 
-### Where the theory met reality
+### Intelligence Nexus
 
-- **Applied AI / NirmalGwalior:** Computer-vision and location-aware monitoring work on a **₹2,00,000 TIIC-funded** smart city initiative.
-- **Data & decision-making:** Python/Pandas-based cleaning, validation, exploratory analytics and Power BI dashboards for research and business datasets.
-- **Always exploring:** Distributed systems, cloud architecture, agent reliability, MLOps and the engineering discipline needed to make ambitious systems trustworthy.
+<a id="intelligence-nexus"></a>
 
-<br />
+**Build intelligence that can listen, retrieve, reason, and assist.**
 
-<!-- SCENE FOUR — CONSISTENCY -->
+<details>
+<summary><strong>OPEN INTELLIGENCE DOSSIER</strong> · BharatVoice AI + AI Hiring Copilot</summary>
 
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/07-consistency-still.jpg" />
-  <img src="assets/07-consistency.gif" width="100%" alt="Animated cinematic title: The work does not stop — the consistency engine and live GitHub activity" />
-</picture>
+**BharatVoice AI — Multilingual Voice Automation**  
+Real-time Hindi, English and Hinglish voice workflows across browser and phone interactions. Combines FastAPI, WebSockets, Deepgram speech recognition, Groq language models, Piper synthesis, and retrieval over business knowledge.
+
+**AI Hiring Copilot — Agentic Recruitment**  
+LLM- and RAG-assisted resume parsing, candidate-to-job matching, skill-gap analysis and interview question generation with LangGraph, FAISS, PostgreSQL, Redis and FastAPI.
+
+**What I explored:** speech pipelines · asynchronous APIs · semantic search · agent orchestration · structured data.
+
+</details>
+
+### Data Forge
+
+<a id="data-forge"></a>
+
+**Turn raw information into trustworthy decisions.**
+
+<details>
+<summary><strong>OPEN DATA DOSSIER</strong> · ProspectIQ + LedgerFlow</summary>
+
+**ProspectIQ — Predictive Intelligence**  
+Predictive prospect-scoring workflows built around XGBoost, Random Forest, Logistic Regression, feature engineering, evaluation and SHAP explainability, with LangGraph/RAG-assisted intelligence.
+
+**LedgerFlow — Enterprise Finance Data Operations**  
+Full-stack finance operations using React, FastAPI, SQL, RBAC, audit logging and SharePoint document workflows, alongside Databricks/PySpark ETL for financial reconciliation and validation.
+
+**What I explored:** model evaluation · explainability · data quality · ETL · secure operational tools.
+
+</details>
+
+### Systems Reactor
+
+<a id="systems-reactor"></a>
+
+**Design for the failures, not just the happy path.**
+
+<details>
+<summary><strong>OPEN SYSTEMS DOSSIER</strong> · TransactX + CloudOps AI</summary>
+
+**TransactX — Distributed Transaction Processing**  
+Java/Spring Boot and Kafka services for transaction workflows, exploring transactional outbox, idempotency, distributed locking, circuit breakers and observability.
+
+**CloudOps AI — Incident Management & AI Investigation**  
+React, Node.js, Redis and Socket.IO-powered incident workflows, with authentication, operational dashboards and an LLM-assisted investigator that recommends actions with human approval.
+
+**What I explored:** reliability patterns · messaging · API security · real-time interfaces · monitoring.
+
+</details>
 
 <div align="center">
 
-**What I build matters. Showing up to improve it matters too.**
+**Six projects. Different disciplines. One engineering mindset.**
 
-<br />
+<a href="https://github.com/AmalBajpayee09?tab=repositories">Browse public repositories</a> &nbsp; / &nbsp; <a href="https://abajpayee33.vercel.app/">View full portfolio</a>
 
-<a href="https://github.com/AmalBajpayee09?tab=overview"><strong>VIEW MY NATIVE GITHUB CONTRIBUTION CALENDAR</strong></a>
+</div>
+
+---
+
+## 03 / The person behind the screen
+
+My interest in engineering is grounded in work beyond personal projects. As a **Core Technical Member — AI & Smart City** at **Lord-Tech Datus Solutions**, I contributed to the **TIIC-funded NirmalGwalior initiative** (₹2,00,000 in innovation funding). My work included computer-vision processing with **Python, OpenCV, YOLOv8 and MiDaS**, plus connecting outputs to **FastAPI, PostgreSQL/PostGIS and React** for location-aware monitoring.
+
+Earlier, as a **Data Analytics Intern**, I worked on cleaning, validation and exploratory analysis of business/research datasets using **Python and Pandas**, with interactive **Power BI** reporting.
+
+**The parts of engineering I keep coming back to:** systems design, debugging, reliable APIs, useful AI, data quality, testing, and translating difficult problems into working software.
+
+### The toolkit — intentionally curated
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,go,cpp,ts,react,nextjs,fastapi,spring,postgres,redis,docker&theme=dark&perline=12" width="92%" alt="Python, Java, Go, C++, TypeScript, React, Next.js, FastAPI, Spring, PostgreSQL, Redis and Docker" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=AmalBajpayee09&theme=transparent&hide_border=true&ring=49DDD9&fire=F8B66F&currStreakLabel=49DDD9&sideLabels=B4D6E0&dates=90A7B7" alt="Live current streak, longest streak and contribution totals" />
+<strong>AI & Data</strong> &nbsp; LLMs · RAG · LangGraph · FAISS · Scikit-learn · XGBoost · OpenCV · Pandas · PySpark
 
 <br />
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=AmalBajpayee09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060D17&title_color=49DDD9&icon_color=F8B66F" alt="Live GitHub statistics" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmalBajpayee09&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=060D17&title_color=49DDD9" alt="GitHub language summary" />
+<strong>Systems & Quality</strong> &nbsp; REST APIs · SQL · Kafka · Docker · GitHub Actions · CI/CD · Observability
+
+</div>
+
+---
+
+## 04 / The consistency engine
+
+<div align="center">
+
+<a href="https://github.com/AmalBajpayee09?tab=overview"><img src="assets/05-consistency.jpg" width="100%" alt="Cinematic title: The Consistency Engine. Show up. Build again." /></a>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=AmalBajpayee09&theme=transparent&hide_border=true&ring=57EADA&fire=F4B06F&currStreakLabel=57EADA&sideLabels=B4CCD8&dates=92AFC0" alt="Live GitHub current streak, longest streak and contributions" />
+
+<br />
+
+<img src="https://github-readme-stats.shion.dev/api?username=AmalBajpayee09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=070D1B&title_color=68EBDC&icon_color=F4B06F" height="164" alt="Live GitHub statistics" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AmalBajpayee09&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=070D1B&title_color=68EBDC" height="164" alt="GitHub repository language summary" />
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution snake traveling across the GitHub contribution history" />
+  <img src="https://raw.githubusercontent.com/AmalBajpayee09/AmalBajpayee09/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake generated by my existing GitHub Actions workflow" />
 </picture>
-
-<sub>The native green GitHub contribution graph remains on my profile. These live widgets supplement it; third-party statistics and snake rendering may depend on service/workflow availability.</sub>
-
-</div>
 
 <br />
 
-<!-- FINAL SCENE — CREDITS -->
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/08-end-credits-still.jpg" />
-  <img src="assets/08-end-credits.gif" width="100%" alt="Cinematic finale: The next chapter is ours to build, with a lone explorer facing a luminous city" />
-</picture>
-
-<div align="center">
-
-**Open to impactful engineering work, ambitious ideas and people who love to build.**
-
-<br />
-
-[**PORTFOLIO**](https://abajpayee33.vercel.app/) &nbsp; / &nbsp; [**GITHUB**](https://github.com/AmalBajpayee09) &nbsp; / &nbsp; [**LINKEDIN**](https://www.linkedin.com/in/abajpai09/) &nbsp; / &nbsp; [**EMAIL**](mailto:amalbajpayee09@gmail.com)
+<sub>The native GitHub contribution calendar and contribution history are still on my profile. These are additional live views, not replacements. The snake requires its existing GitHub Actions workflow.</sub>
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=AmalBajpayee09&style=flat-square&color=0F766E&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/AmalBajpayee09?tab=overview"><strong>VIEW MY REAL CONTRIBUTION CALENDAR</strong></a>
+
+</div>
+
+---
+
+## 05 / The next chapter
+
+<div align="center">
+
+<a href="https://amalbajpayee09.github.io/AmalBajpayee09/"><img src="assets/06-final-frame.jpg" width="100%" alt="Cinematic final scene: The next chapter is ours to build, opening the playable Buildverse experience" /></a>
+
+<br /><br />
+
+**Looking for someone who can move between backend systems, full-stack products, intelligent agents and data engineering?**
+
+I enjoy ambitious problems, thoughtful teammates and building things that people can actually use.
 
 <br />
 
-<sub>AN AMAL BAJPAYEE PROJECT · MOTION GRAPHICS AND ENGINEERING, FRAME BY FRAME</sub>
+<a href="https://amalbajpayee09.github.io/AmalBajpayee09/"><strong>PLAY THE BUILDVERSE</strong></a>
+&nbsp; · &nbsp;
+<a href="https://abajpayee33.vercel.app/"><strong>PORTFOLIO</strong></a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/abajpai09/"><strong>LINKEDIN</strong></a>
+&nbsp; · &nbsp;
+<a href="mailto:amalbajpayee09@gmail.com"><strong>EMAIL</strong></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=AmalBajpayee09&style=flat-square&color=15998E&label=PROFILE+VIEWS" alt="GitHub profile visit counter" />
+
+<br />
+
+<sub>AN INTERACTIVE PORTFOLIO EXPERIMENT BY AMAL BAJPAYEE · MADE TO BE EXPLORED</sub>
 
 </div>
