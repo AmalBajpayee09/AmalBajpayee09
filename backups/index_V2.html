@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="theme-color" content="#070d19" />
+  <meta name="description" content="Enter The Buildverse — a playable engineering portfolio by Amal Bajpayee. Explore AI, data, and distributed systems in three interactive worlds." />
+  <meta property="og:title" content="THE BUILDVERSE — Amal Bajpayee" />
+  <meta property="og:description" content="Not a portfolio. A playable universe of engineering projects." />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="assets/cinematic-sky.jpg" />
+  <title>THE BUILDVERSE • Amal Bajpayee — Play My Portfolio</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='24' fill='%23070e19'/%3E%3Cpath d='M18 71 50 18 82 71H66L50 43 34 71Z' fill='%2345e5da'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="app">
+    <div class="global-noise" aria-hidden="true"></div>
+    <header class="topbar">
+      <a class="wordmark" href="#home" id="brandLink" aria-label="The Buildverse home"><span class="brand-mark">A<span class="brand-dot">.</span></span><span class="brand-copy"><b>AMAL/VERSE</b><small>AN INTERACTIVE ENGINEERING UNIVERSE</small></span></a>
+      <div class="topbar-right"><span class="live-pulse"><i></i> PLAYER ACCESS OPEN</span><a class="nav-link hide-mobile" href="https://github.com/AmalBajpayee09" target="_blank" rel="noopener noreferrer">GITHUB <span>↗</span></a><a class="nav-link hide-mobile" href="https://abajpayee33.vercel.app/" target="_blank" rel="noopener noreferrer">PORTFOLIO <span>↗</span></a><button id="soundToggle" class="icon-button" aria-label="Enable game audio" title="Sound on/off">♪ <span>OFF</span></button></div>
+    </header>
+
+    <main>
+      <section id="landing" class="landing active" aria-label="Play the Buildverse">
+        <div class="hero-art" aria-hidden="true"></div><div class="starfield" aria-hidden="true"></div>
+        <div class="hero-frame">
+          <div class="hero-copy">
+            <div class="eyebrow"><span class="tiny-diamond"></span> A PLAYABLE PORTFOLIO / 2026 <span class="eyebrow-line"></span> PRESS START TO EXPLORE</div>
+            <p class="intro-overline">THE STORY ISN'T ON THIS PAGE.</p>
+            <h1><span>IT'S IN THE</span><em>BUILDVERSE<span class="title-period">.</span></em></h1>
+            <p class="hero-desc">I'm <strong>Amal Bajpayee</strong>. Software engineer, AI builder, systems thinker. I could tell you what I build. <strong>I'd rather let you experience it.</strong></p>
+            <div class="hero-actions"><button class="button-main" id="startBtn"><span class="play-triangle">▶</span> ENTER THE GAME <span class="button-arrow">↗</span></button><button class="button-outline" id="recruiterBtn">EXPLORE WITHOUT PLAYING <span>↗</span></button></div>
+            <p class="hero-hint"><span class="keycap">W</span><span class="keycap">A</span><span class="keycap">S</span><span class="keycap">D</span> MOVE <span class="hint-separator">•</span> <span class="keycap">E</span> INTERACT <span class="hint-separator">•</span> <span class="keycap">SPACE</span> PULSE <span class="hint-separator">•</span> MOBILE SUPPORTED</p>
+          </div>
+          <aside class="hero-sidebar" aria-label="Mission details">
+            <div class="mission-index">MISSION BRIEF <span>001 / CLASSIFIED</span></div>
+            <div class="mission-orbit"><div class="orbit orbit-1"></div><div class="orbit orbit-2"></div><div class="orbit orbit-3"></div><span>A</span><i class="orb-dot orb-a"></i><i class="orb-dot orb-b"></i></div>
+            <div class="sidebar-stat"><span>03</span><div>EXPLORE THREE<br/><b>ENGINEERING WORLDS</b></div></div><div class="sidebar-stat"><span>06</span><div>UNLOCK SIX<br/><b>REAL PROJECT STORIES</b></div></div><div class="sidebar-stat"><span>01</span><div>DISCOVER THE<br/><b>BUILDER BEHIND IT</b></div></div>
+            <div class="mini-protocol">NO LOGIN <i>×</i> NO DOWNLOAD <i>×</i> JUST PLAY</div>
+          </aside>
+        </div>
+        <div class="landing-footer"><div><span class="scroll-glyph">↓</span> YOUR NEXT ADVENTURE STARTS HERE</div><div>ABV-IIITM GWALIOR <span>•</span> B.TECH + M.TECH IT <span>•</span> CLASS OF 2027</div></div>
+      </section>
+
+      <section id="playArea" class="play-area" aria-label="Playable engineering adventure" hidden>
+        <div class="game-topline"><span id="worldKicker">WORLD 01 / THE INTELLIGENCE NEXUS</span><span id="gameRunStatus">SIMULATION ACTIVE <i class="blink">●</i></span><span class="desktop-help">WASD MOVE / E INTERACT / SPACE PULSE / M MAP / ESC PAUSE</span></div>
+        <div class="game-shell" id="gameShell">
+          <canvas id="gameCanvas" aria-label="Top-down space exploration game. Navigate a pilot to gather energy fragments and inspect project terminals."></canvas>
+          <div class="scanlines" aria-hidden="true"></div><div id="hitFlash" class="hit-flash" aria-hidden="true"></div>
+          <div class="hud-top">
+            <div class="hud-world"><span class="hud-label">CURRENT WORLD</span><strong id="hudWorldName">THE INTELLIGENCE NEXUS</strong><span id="hudSubtitle">ENTER THE SIGNAL</span></div>
+            <div class="hud-vitals"><div><span class="hud-label">CORE ENERGY</span><b id="hudCoreCount">0 / 4</b></div><div><span class="hud-label">PROJECT INTEL</span><b id="hudIntelCount">0 / 2</b></div><div><span class="hud-label">HULL INTEGRITY</span><b id="hudHearts" aria-label="Four health points">◆ ◆ ◆ ◆</b></div></div>
+          </div>
+          <div class="hud-right"><div class="minimap-shell"><div class="hud-label">SECTOR RADAR <span>LIVE</span></div><canvas id="minimap" width="190" height="94" aria-label="Radar showing player and mission objectives"></canvas></div><div class="quick-buttons"><button id="mapBtn" title="Toggle full map">⌘ MAP</button><button id="pauseBtn" title="Pause the game">Ⅱ PAUSE</button></div></div>
+          <div class="hud-bottom"><div class="mission-objective"><span class="hud-label">ACTIVE OBJECTIVE <span class="objective-marker">◆</span></span><strong id="objectiveText">Collect signal cores and inspect project nodes</strong><span id="objectiveDetail">Explore the glowing landmarks across the world.</span></div><div class="interact-guide" id="interactionGuide"><span class="keycap">E</span> INSPECT NODE</div></div>
+          <div class="toast" id="toast" role="status" aria-live="polite"></div>
+          <div class="mobile-controls" aria-label="Touch game controls"><div class="dpad"><button data-hold="up" aria-label="Move up">▲</button><div><button data-hold="left" aria-label="Move left">◀</button><button data-hold="down" aria-label="Move down">▼</button><button data-hold="right" aria-label="Move right">▶</button></div></div><div class="mobile-actions"><button id="touchPulse">PULSE</button><button id="touchInteract">INSPECT</button></div></div>
+        </div>
+        <div class="game-footline"><span>BUILDVERSE ENGINE / V1.0</span><span>COLLECT 4 CORES + DISCOVER 2 PROJECTS TO UNLOCK EACH GATE</span><span id="footProgress">WORLD 01 / 03</span></div>
+      </section>
+
+      <section class="afterword" id="afterword"><span class="overline">NOT JUST A GAME — THE WORK BEHIND IT</span><h2>CODE IS THE MEDIUM.<br/><em>THE IMPACT IS THE POINT.</em></h2><p>Projects here reflect the engineering work I've shared: agentic AI, multilingual voice workflows, predictive intelligence, enterprise finance systems, distributed transactions, and full-stack incident management. The game is an original interactive presentation of that portfolio, not a claim that every project runs in production.</p><div class="afterword-links"><a href="https://github.com/AmalBajpayee09?tab=repositories" target="_blank" rel="noopener noreferrer">EXPLORE MY CODE ↗</a><a href="https://www.linkedin.com/in/abajpai09/" target="_blank" rel="noopener noreferrer">CONNECT ON LINKEDIN ↗</a><a href="mailto:amalbajpayee09@gmail.com">EMAIL ME ↗</a></div></section>
+    </main>
+    <footer class="site-footer"><span>© 2026 AMAL BAJPAYEE — BUILT WITH CURIOSITY.</span><span>EVERY SYSTEM HAS A STORY. THIS ONE IS PLAYABLE.</span></footer>
+
+    <div class="overlay" id="modalOverlay" hidden><div class="modal-scrim" data-close="true"></div><div class="modal-dialog" id="modalDialog" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="modal-close" id="modalClose" aria-label="Close dialog">✕</button><div id="modalBody"></div></div></div>
+    <div id="screenMessage" class="screen-message" role="status" aria-live="polite" hidden></div>
+  </div>
+  <noscript><p style="padding:24px;color:white">This interactive game needs JavaScript. You can still view <a style="color:#61f6ea" href="https://github.com/AmalBajpayee09?tab=repositories">my GitHub projects</a>.</p></noscript>
+  <script src="game.js" defer></script>
+</body>
+</html>
